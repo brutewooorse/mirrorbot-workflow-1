@@ -3,7 +3,7 @@ name: setting up environment
 on: [push]
     
 env:
- username: brutwooorse
+ username: brutewooorse
 jobs:
   build:
     runs-on: ubuntu-latest
